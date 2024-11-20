@@ -144,4 +144,4 @@ TBD.
 
 Пример ссылки для получения настроек сервера: https://s198-ru.ogame.gameforge.com/api/serverData.xml
 
-Источник: https://board.origin.ogame.gameforge.com/index.php/Thread/3927-OGame-API/?s=ffcc1c47d6c393b72b2f12b17368e753156b20b8
+Источник: https://board.origin.ogame.gameforge.com/index.php/Thread/3927-OGame-API
